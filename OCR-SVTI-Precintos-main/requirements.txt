@@ -1,0 +1,12 @@
+# Versiones del prototipo original (se conservan hasta probar una instalación limpia).
+paddlepaddle==2.6.2
+paddleocr==2.7.3
+numpy==1.26.4
+opencv-python==4.6.0.66
+
+# Dependencias utilizadas por el código actual (algunas aún sin versión fijada).
+Pillow
+python-dotenv
+openpyxl
+requests
+PySide6
